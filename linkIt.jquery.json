@@ -1,0 +1,36 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery plugin",
+    "description": "Simple plugin to convert any element into a lick",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Foysal Md",
+        "url": "https://www.google.com"
+    },
+    "maintainers": [
+        {
+            "name": "Foysal Md",
+            "email": "foysal@earlblue.com",
+            "url": "https://www.google.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Foysal91/jquery.linkIt/MIT-LICENSE.txt"
+        }
+    ],
+   
+    "homepage": "https://github.com/Foysal91/jquery.linkIt",
+    "docs": "https://github.com/Foysal91/jquery.linkIt",
+   
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
+
